@@ -13,7 +13,7 @@ public class lisener implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        System.out.println("你好约吗？");
+        System.out.println("我的");
         System.out.println("鼠标点击了");
         System.out.println("sadsdaa");
         String name = nameinput.getText();
