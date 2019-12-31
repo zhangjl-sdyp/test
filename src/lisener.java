@@ -14,6 +14,7 @@ public class lisener implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         System.out.println("鼠标点击了");
+        System.out.println("sadsdaa");
         String name = nameinput.getText();
         String password = passinput.getText();
         if (name.equals("zhangjinlong") && password.equals("123456")) {
